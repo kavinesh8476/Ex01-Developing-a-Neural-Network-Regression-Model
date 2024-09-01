@@ -23,33 +23,42 @@ To develop a neural network regression model for the given dataset.
 
 Loading the dataset
 
+
 ### STEP 2:
 
 Split the dataset into training and testing
+
 
 ### STEP 3:
 
 Create MinMaxScalar objects ,fit the model and transform the data.
 
+
 ### STEP 4:
 
 Build the Neural Network Model and compile the model.
+
 
 ### STEP 5:
 
 Train the model with the training data.
 
+
 ### STEP 6:
 
 Plot the performance plot
+
 
 ### STEP 7:
 
 Evaluate the model with the testing data.
 
+
 ## PROGRAM
-### Name:Kavinesh M
-### Register Number:212222230064
+```
+Name:Kavinesh M
+Register Number:212222230064
+```
 ## Importing Required packages
 ```python
 from google.colab import auth
